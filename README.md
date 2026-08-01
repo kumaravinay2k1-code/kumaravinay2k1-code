@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Vinay%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Vinay%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Web%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Available+for+Freelance+Projects;Let's+build+something+great!&font=Fira+Code&center=true&width=500&height=45&color=38bdf8&vCenter=true&size=20"/>
+**Building modern, scalable web experiences with React, Node.js & MongoDB**
+📌 Available for Freelance Projects
 
 </div>
 
@@ -47,7 +48,7 @@ I'm a **Full Stack Web Developer** who designs and builds premium, high-performa
 
 <img src="https://github-readme-stats.vercel.app/api?username=kumaravinay2k1-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumaravinay2k1-code&theme=tokyonight&hide_border=true" width="100%"/>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaravinay2k1-code&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
 
@@ -65,16 +66,22 @@ I'm a **Full Stack Web Developer** who designs and builds premium, high-performa
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
 **[gpscrapper](https://github.com/kumaravinay2k1-code/gpscrapper)**
 Web scraping tool built with JavaScript.
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
 **[assignbment5react](https://github.com/kumaravinay2k1-code/assignbment5react)**
 React-based project showcasing component-driven UI.
+
+</td>
+<td width="33%" valign="top">
+
+**[nextjs_portfolio](https://github.com/kumaravinay2k1-code/nextjs_portfolio)**
+Personal portfolio built with Next.js.
 
 </td>
 </tr>
@@ -83,8 +90,9 @@ React-based project showcasing component-driven UI.
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
 
 <i>Let's build something remarkable together 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
